@@ -93,7 +93,7 @@ module.exports = {
     "author": "zwDong",
     "authorAvatar": "/avatar.png",
     "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2021"
   },
   "markdown": {
     "lineNumbers": true
