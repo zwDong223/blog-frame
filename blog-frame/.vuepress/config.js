@@ -1,6 +1,6 @@
 module.exports = {
-  "title": "",
-  "description": "blog frame code",
+  "title": "君子不器",
+  "description": "子曰：'学而不思则罔，思而不学则殆。'",
   "dest": "public",
   "head": [
     [
@@ -47,20 +47,20 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/zwDong223",
             "icon": "reco-github"
           }
         ]
       }
     ],
-    "sidebar": {
-      "/docs/theme-reco/": [
-        "",
-        "theme",
-        "plugin",
-        "api"
-      ]
-    },
+    // "sidebar": {
+    //   "/docs/theme-reco/": [
+    //     "",
+    //     "theme",
+    //     "plugin",
+    //     "api"
+    //   ]
+    // },
     "type": "blog",
     "blogConfig": {
       "category": {
@@ -86,7 +86,7 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/logo.png",
+    // "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
