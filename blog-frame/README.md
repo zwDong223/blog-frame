@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: vuepress-theme-reco
-tagline: A simple and beautiful vuepress blog theme.
+heroText: DEVELOPER DZW
+tagline: 子曰：学而不思则罔，思而不学则殆。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

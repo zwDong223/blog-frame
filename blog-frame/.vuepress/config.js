@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "君子不器",
+  "title": "Developer DZW",
   "description": "子曰：'学而不思则罔，思而不学则殆。'",
   "dest": "public",
   "head": [
@@ -53,14 +53,7 @@ module.exports = {
         ]
       }
     ],
-    // "sidebar": {
-    //   "/docs/theme-reco/": [
-    //     "",
-    //     "theme",
-    //     "plugin",
-    //     "api"
-    //   ]
-    // },
+    "sidebar": "auto",
     "type": "blog",
     "blogConfig": {
       "category": {
@@ -86,7 +79,7 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    // "logo": "/logo.png",
+    "logo": "/logo.png",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
