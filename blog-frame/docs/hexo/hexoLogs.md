@@ -3,6 +3,8 @@ title: hexo部署之github page报错
 date: 2020-09-23 13:51:17
 tags: 
  - hexo
+categories: 
+ - hexo
 ---
 
 根据hexo[官网文档]('https://hexo.io/zh-cn/docs/github-pages') 配置_config.yml文档，配置deploy，配置内容如下

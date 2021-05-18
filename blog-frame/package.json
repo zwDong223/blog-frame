@@ -10,5 +10,9 @@
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.6"
   },
-  "description": "blog frame code"
+  "description": "blog frame code",
+  "dependencies": {
+    "busuanzi.pure.js": "^1.0.3",
+    "vuepress-plugin-comment": "^0.7.3"
+  }
 }
